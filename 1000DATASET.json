@@ -1,0 +1,1150 @@
+{
+  "Meesam": {
+    "HTML": 1,
+    "Python": 4,
+    "Java": 4,
+    "C": 5,
+    "JavaScript": 1
+  },
+  "Ali": {
+    "HTML": 1,
+    "Python": 2,
+    "Java": 1,
+    "C": 4,
+    "JavaScript": 4
+  },
+  "Aisha": {
+    "HTML": 1,
+    "Python": 2,
+    "Java": 5,
+    "C": 4,
+    "JavaScript": 3
+  },
+  "Sana": {
+    "HTML": 1,
+    "Python": 3,
+    "Java": 2,
+    "C": 4,
+    "JavaScript": 4
+  },
+  "Shahzad": {
+    "HTML": 4,
+    "Python": 5,
+    "Java": 4,
+    "C": 3,
+    "JavaScript": 3
+  },
+  "Bilal": {
+    "HTML": 5,
+    "Python": 2,
+    "Java": 5,
+    "C": 2,
+    "JavaScript": 3
+  },
+  "Kashif": {
+    "HTML": 2,
+    "Python": 3,
+    "Java": 3,
+    "C": 4,
+    "JavaScript": 4
+  },
+  "Raza": {
+    "HTML": 2,
+    "Python": 1,
+    "Java": 5,
+    "C": 2,
+    "JavaScript": 4
+  },
+  "Zain": {
+    "HTML": 2,
+    "Python": 3,
+    "Java": 4,
+    "C": 1,
+    "JavaScript": 5
+  },
+  "Zainab": {
+    "HTML": 1,
+    "Python": 1,
+    "Java": 1,
+    "C": 1,
+    "JavaScript": 3
+  },
+  "Usman": {
+    "HTML": 2,
+    "Python": 5,
+    "Java": 1,
+    "C": 3,
+    "JavaScript": 2
+  },
+  "Kiran": {
+    "HTML": 5,
+    "Python": 5,
+    "Java": 4,
+    "C": 2,
+    "JavaScript": 2
+  },
+  "Junaid": {
+    "HTML": 3,
+    "Python": 3,
+    "Java": 3,
+    "C": 5,
+    "JavaScript": 5
+  },
+  "Waqas": {
+    "HTML": 1,
+    "Python": 3,
+    "Java": 3,
+    "C": 1,
+    "JavaScript": 5
+  },
+  "Asif": {
+    "HTML": 5,
+    "Python": 4,
+    "Java": 2,
+    "C": 3,
+    "JavaScript": 1
+  },
+  "Fahad": {
+    "HTML": 5,
+    "Python": 5,
+    "Java": 4,
+    "C": 2,
+    "JavaScript": 2
+  },
+  "Sumaira": {
+    "HTML": 1,
+    "Python": 4,
+    "Java": 5,
+    "C": 3,
+    "JavaScript": 4
+  },
+  "Tariq": {
+    "HTML": 1,
+    "Python": 3,
+    "Java": 5,
+    "C": 1,
+    "JavaScript": 3
+  },
+  "Kubra": {
+    "HTML": 4,
+    "Python": 1,
+    "Java": 3,
+    "C": 5,
+    "JavaScript": 5
+  },
+  "Bushra": {
+    "HTML": 3,
+    "Python": 1,
+    "Java": 2,
+    "C": 1,
+    "JavaScript": 5
+  },
+  "Luqman Ali": {
+    "HTML": 3,
+    "Python": 5,
+    "Java": 1,
+    "C": 1,
+    "JavaScript": 5
+  },
+  "Hania": {
+    "HTML": 1,
+    "Python": 3,
+    "Java": 5,
+    "C": 4,
+    "JavaScript": 5
+  },
+  "Zeeshan Hameed": {
+    "HTML": 4,
+    "Python": 3,
+    "Java": 2,
+    "C": 3,
+    "JavaScript": 3
+  },
+  "Benish": {
+    "HTML": 5,
+    "Python": 4,
+    "Java": 1,
+    "C": 4,
+    "JavaScript": 1
+  },
+  "Kamran": {
+    "HTML": 2,
+    "Python": 1,
+    "Java": 2,
+    "C": 5,
+    "JavaScript": 5
+  },
+  "Rashid": {
+    "HTML": 1,
+    "Python": 5,
+    "Java": 2,
+    "C": 3,
+    "JavaScript": 4
+  },
+  "Jaferia": {
+    "HTML": 1,
+    "Python": 1,
+    "Java": 5,
+    "C": 3,
+    "JavaScript": 1
+  },
+  "Asma": {
+    "HTML": 2,
+    "Python": 5,
+    "Java": 4,
+    "C": 1,
+    "JavaScript": 2
+  },
+  "Amna": {
+    "HTML": 4,
+    "Python": 3,
+    "Java": 3,
+    "C": 2,
+    "JavaScript": 2
+  },
+  "Faisal": {
+    "HTML": 1,
+    "Python": 4,
+    "Java": 5,
+    "C": 4,
+    "JavaScript": 3
+  },
+  "Waseem": {
+    "HTML": 5,
+    "Python": 3,
+    "Java": 4,
+    "C": 3,
+    "JavaScript": 4
+  },
+  "Salman": {
+    "HTML": 2,
+    "Python": 1,
+    "Java": 4,
+    "C": 3,
+    "JavaScript": 1
+  },
+  "Hamza": {
+    "HTML": 3,
+    "Python": 3,
+    "Java": 2,
+    "C": 4,
+    "JavaScript": 4
+  },
+  "Nabeel": {
+    "HTML": 3,
+    "Python": 5,
+    "Java": 2,
+    "C": 1,
+    "JavaScript": 2
+  },
+  "Anum": {
+    "HTML": 4,
+    "Python": 1,
+    "Java": 2,
+    "C": 1,
+    "JavaScript": 1
+  },
+  "Alina": {
+    "HTML": 4,
+    "Python": 3,
+    "Java": 4,
+    "C": 2,
+    "JavaScript": 1
+  },
+  "Fiza Ali": {
+    "HTML": 5,
+    "Python": 1,
+    "Java": 5,
+    "C": 5,
+    "JavaScript": 4
+  },
+  "Iqra": {
+    "HTML": 3,
+    "Python": 3,
+    "Java": 2,
+    "C": 4,
+    "JavaScript": 3
+  },
+  "Adnan": {
+    "HTML": 3,
+    "Python": 5,
+    "Java": 2,
+    "C": 5,
+    "JavaScript": 3
+  },
+  "Farhan": {
+    "HTML": 3,
+    "Python": 4,
+    "Java": 1,
+    "C": 5,
+    "JavaScript": 3
+  },
+  "Wajiha": {
+    "HTML": 2,
+    "Python": 3,
+    "Java": 1,
+    "C": 2,
+    "JavaScript": 5
+  },
+  "Pakeeza": {
+    "HTML": 2,
+    "Python": 2,
+    "Java": 4,
+    "C": 1,
+    "JavaScript": 5
+  },
+  "Dua": {
+    "HTML": 5,
+    "Python": 2,
+    "Java": 1,
+    "C": 4,
+    "JavaScript": 1
+  },
+  "Eshal": {
+    "HTML": 3,
+    "Python": 2,
+    "Java": 3,
+    "C": 2,
+    "JavaScript": 5
+  },
+  "Areeba": {
+    "HTML": 5,
+    "Python": 4,
+    "Java": 5,
+    "C": 3,
+    "JavaScript": 3
+  },
+  "Sajid": {
+    "HTML": 2,
+    "Python": 2,
+    "Java": 5,
+    "C": 4,
+    "JavaScript": 4
+  },
+  "Sidra": {
+    "HTML": 3,
+    "Python": 2,
+    "Java": 4,
+    "C": 1,
+    "JavaScript": 4
+  },
+  "Arslan": {
+    "HTML": 1,
+    "Python": 4,
+    "Java": 3,
+    "C": 5,
+    "JavaScript": 3
+  },
+  "Nimra": {
+    "HTML": 4,
+    "Python": 1,
+    "Java": 3,
+    "C": 5,
+    "JavaScript": 3
+  },
+  "Komal Ali": {
+    "HTML": 4,
+    "Python": 2,
+    "Java": 1,
+    "C": 3,
+    "JavaScript": 2
+  },
+  "Babur": {
+    "HTML": 5,
+    "Python": 5,
+    "Java": 4,
+    "C": 4,
+    "JavaScript": 2
+  },
+  "Dur-e-Fishan": {
+    "HTML": 1,
+    "Python": 5,
+    "Java": 4,
+    "C": 2,
+    "JavaScript": 1
+  },
+  "Eman": {
+    "HTML": 2,
+    "Python": 4,
+    "Java": 5,
+    "C": 3,
+    "JavaScript": 3
+  },
+  "Sadia": {
+    "HTML": 2,
+    "Python": 2,
+    "Java": 1,
+    "C": 3,
+    "JavaScript": 3
+  },
+  "Saad": {
+    "HTML": 4,
+    "Python": 5,
+    "Java": 4,
+    "C": 4,
+    "JavaScript": 5
+  },
+  "Saba": {
+    "HTML": 5,
+    "Python": 5,
+    "Java": 4,
+    "C": 2,
+    "JavaScript": 5
+  },
+  "Zoya": {
+    "HTML": 5,
+    "Python": 1,
+    "Java": 2,
+    "C": 5,
+    "JavaScript": 1
+  },
+  "Nadia": {
+    "HTML": 2,
+    "Python": 4,
+    "Java": 4,
+    "C": 4,
+    "JavaScript": 4
+  },
+  "Laiba": {
+    "HTML": 4,
+    "Python": 2,
+    "Java": 5,
+    "C": 1,
+    "JavaScript": 5
+  },
+  "Shehram": {
+    "HTML": 5,
+    "Python": 2,
+    "Java": 1,
+    "C": 4,
+    "JavaScript": 1
+  },
+  "Sania": {
+    "HTML": 3,
+    "Python": 5,
+    "Java": 4,
+    "C": 5,
+    "JavaScript": 4
+  },
+  "Ahmad": {
+    "HTML": 1,
+    "Python": 3,
+    "Java": 4,
+    "C": 1,
+    "JavaScript": 2
+  },
+  "Sarmad": {
+    "HTML": 1,
+    "Python": 3,
+    "Java": 2,
+    "C": 4,
+    "JavaScript": 1
+  },
+  "Noman": {
+    "HTML": 3,
+    "Python": 5,
+    "Java": 3,
+    "C": 1,
+    "JavaScript": 3
+  },
+  "Maham": {
+    "HTML": 4,
+    "Python": 5,
+    "Java": 4,
+    "C": 2,
+    "JavaScript": 1
+  },
+  "Jaweria": {
+    "HTML": 2,
+    "Python": 3,
+    "Java": 2,
+    "C": 3,
+    "JavaScript": 4
+  },
+  "Mudassir": {
+    "HTML": 4,
+    "Python": 5,
+    "Java": 2,
+    "C": 4,
+    "JavaScript": 5
+  },
+  "Haris": {
+    "HTML": 3,
+    "Python": 2,
+    "Java": 2,
+    "C": 4,
+    "JavaScript": 3
+  },
+  "Aalia": {
+    "HTML": 1,
+    "Python": 5,
+    "Java": 4,
+    "C": 5,
+    "JavaScript": 1
+  },
+  "Shanzay": {
+    "HTML": 5,
+    "Python": 2,
+    "Java": 3,
+    "C": 1,
+    "JavaScript": 5
+  },
+  "Iram": {
+    "HTML": 2,
+    "Python": 2,
+    "Java": 4,
+    "C": 4,
+    "JavaScript": 4
+  },
+  "Talha": {
+    "HTML": 3,
+    "Python": 1,
+    "Java": 4,
+    "C": 3,
+    "JavaScript": 3
+  },
+  "Mehak": {
+    "HTML": 2,
+    "Python": 2,
+    "Java": 4,
+    "C": 3,
+    "JavaScript": 4
+  },
+  "Fariha": {
+    "HTML": 1,
+    "Python": 2,
+    "Java": 4,
+    "C": 5,
+    "JavaScript": 1
+  },
+  "Imran": {
+    "HTML": 3,
+    "Python": 5,
+    "Java": 5,
+    "C": 2,
+    "JavaScript": 5
+  },
+  "Mariam": {
+    "HTML": 4,
+    "Python": 3,
+    "Java": 1,
+    "C": 3,
+    "JavaScript": 2
+  },
+  "Daniyal": {
+    "HTML": 1,
+    "Python": 4,
+    "Java": 5,
+    "C": 2,
+    "JavaScript": 4
+  },
+  "Gohar": {
+    "HTML": 3,
+    "Python": 3,
+    "Java": 1,
+    "C": 2,
+    "JavaScript": 2
+  },
+  "Hira": {
+    "HTML": 5,
+    "Python": 1,
+    "Java": 2,
+    "C": 1,
+    "JavaScript": 2
+  },
+  "Shahbaz Shareef": {
+    "HTML": 3,
+    "Python": 1,
+    "Java": 2,
+    "C": 3,
+    "JavaScript": 5
+  },
+  "Madiha Maam": {
+    "HTML": 3,
+    "Python": 3,
+    "Java": 5,
+    "C": 2,
+    "JavaScript": 1
+  },
+  "Anya": {
+    "HTML": 5,
+    "Python": 1,
+    "Java": 3,
+    "C": 5,
+    "JavaScript": 1
+  },
+  "Tayyaba Fatima": {
+    "HTML": 5,
+    "Python": 2,
+    "Java": 2,
+    "C": 2,
+    "JavaScript": 1
+  },
+  "Sheraz": {
+    "HTML": 2,
+    "Python": 3,
+    "Java": 3,
+    "C": 3,
+    "JavaScript": 2
+  },
+  "Fizan": {
+    "HTML": 2,
+    "Python": 4,
+    "Java": 1,
+    "C": 3,
+    "JavaScript": 1
+  },
+  "Fakhra": {
+    "HTML": 2,
+    "Python": 1,
+    "Java": 5,
+    "C": 3,
+    "JavaScript": 3
+  },
+  "Zahid": {
+    "HTML": 4,
+    "Python": 4,
+    "Java": 2,
+    "C": 3,
+    "JavaScript": 4
+  },
+  "Ghazala": {
+    "HTML": 4,
+    "Python": 1,
+    "Java": 3,
+    "C": 4,
+    "JavaScript": 1
+  },
+  "Sobia": {
+    "HTML": 5,
+    "Python": 2,
+    "Java": 1,
+    "C": 3,
+    "JavaScript": 5
+  },
+  "Anas": {
+    "HTML": 2,
+    "Python": 4,
+    "Java": 4,
+    "C": 1,
+    "JavaScript": 4
+  },
+  "Nadeem": {
+    "HTML": 5,
+    "Python": 1,
+    "Java": 4,
+    "C": 4,
+    "JavaScript": 4
+  },
+  "Jasmin": {
+    "HTML": 3,
+    "Python": 3,
+    "Java": 2,
+    "C": 1,
+    "JavaScript": 3
+  },
+  "Bakhtawar": {
+    "HTML": 5,
+    "Python": 4,
+    "Java": 4,
+    "C": 5,
+    "JavaScript": 2
+  },
+  "Urooj": {
+    "HTML": 3,
+    "Python": 2,
+    "Java": 2,
+    "C": 2,
+    "JavaScript": 4
+  },
+  "Sami": {
+    "HTML": 4,
+    "Python": 2,
+    "Java": 4,
+    "C": 3,
+    "JavaScript": 2
+  },
+  "Omer": {
+    "HTML": 1,
+    "Python": 3,
+    "Java": 1,
+    "C": 1,
+    "JavaScript": 4
+  },
+  "Rimsha": {
+    "HTML": 4,
+    "Python": 5,
+    "Java": 1,
+    "C": 3,
+    "JavaScript": 2
+  },
+  "Aleena": {
+    "HTML": 4,
+    "Python": 2,
+    "Java": 5,
+    "C": 2,
+    "JavaScript": 4
+  },
+  "Ehtisham": {
+    "HTML": 4,
+    "Python": 4,
+    "Java": 3,
+    "C": 4,
+    "JavaScript": 1
+  },
+  "Rizwan": {
+    "HTML": 1,
+    "Python": 4,
+    "Java": 5,
+    "C": 1,
+    "JavaScript": 4
+  },
+  "Zohaib": {
+    "HTML": 1,
+    "Python": 5,
+    "Java": 3,
+    "C": 2,
+    "JavaScript": 1
+  },
+  "Moomal": {
+    "HTML": 2,
+    "Python": 3,
+    "Java": 2,
+    "C": 5,
+    "JavaScript": 5
+  },
+  "Shahid": {
+    "HTML": 5,
+    "Python": 4,
+    "Java": 5,
+    "C": 5,
+    "JavaScript": 2
+  },
+  "Sahar": {
+    "HTML": 1,
+    "Python": 5,
+    "Java": 5,
+    "C": 2,
+    "JavaScript": 4
+  },
+  "Juweria": {
+    "HTML": 2,
+    "Python": 5,
+    "Java": 2,
+    "C": 2,
+    "JavaScript": 5
+  },
+  "Mahnoor": {
+    "HTML": 4,
+    "Python": 3,
+    "Java": 1,
+    "C": 2,
+    "JavaScript": 3
+  },
+  "Ishaq": {
+    "HTML": 1,
+    "Python": 5,
+    "Java": 1,
+    "C": 1,
+    "JavaScript": 4
+  },
+  "Yaqub": {
+    "HTML": 5,
+    "Python": 3,
+    "Java": 2,
+    "C": 2,
+    "JavaScript": 5
+  },
+  "Natasha": {
+    "HTML": 2,
+    "Python": 4,
+    "Java": 5,
+    "C": 5,
+    "JavaScript": 1
+  },
+  "Tahira": {
+    "HTML": 5,
+    "Python": 1,
+    "Java": 5,
+    "C": 3,
+    "JavaScript": 3
+  },
+  "Irfan": {
+    "HTML": 1,
+    "Python": 2,
+    "Java": 2,
+    "C": 3,
+    "JavaScript": 3
+  },
+  "Laraib": {
+    "HTML": 3,
+    "Python": 2,
+    "Java": 4,
+    "C": 3,
+    "JavaScript": 3
+  },
+  "Shayan": {
+    "HTML": 2,
+    "Python": 4,
+    "Java": 2,
+    "C": 1,
+    "JavaScript": 5
+  },
+  "Khadija fatima": {
+    "HTML": 5,
+    "Python": 3,
+    "Java": 5,
+    "C": 2,
+    "JavaScript": 2
+  },
+  "Warda": {
+    "HTML": 1,
+    "Python": 3,
+    "Java": 4,
+    "C": 5,
+    "JavaScript": 4
+  },
+  "Faraz": {
+    "HTML": 3,
+    "Python": 5,
+    "Java": 3,
+    "C": 2,
+    "JavaScript": 3
+  },
+  "Zulfiqar": {
+    "HTML": 1,
+    "Python": 2,
+    "Java": 1,
+    "C": 5,
+    "JavaScript": 2
+  },
+  "Jamil": {
+    "HTML": 2,
+    "Python": 2,
+    "Java": 5,
+    "C": 1,
+    "JavaScript": 5
+  },
+  "Umer": {
+    "HTML": 3,
+    "Python": 1,
+    "Java": 1,
+    "C": 5,
+    "JavaScript": 5
+  },
+  "Sajawal": {
+    "HTML": 5,
+    "Python": 3,
+    "Java": 5,
+    "C": 5,
+    "JavaScript": 5
+  },
+  "Muzzamil": {
+    "HTML": 3,
+    "Python": 4,
+    "Java": 4,
+    "C": 3,
+    "JavaScript": 1
+  },
+  "Jehanzeb": {
+    "HTML": 3,
+    "Python": 3,
+    "Java": 1,
+    "C": 5,
+    "JavaScript": 1
+  },
+  "Dawood": {
+    "HTML": 5,
+    "Python": 2,
+    "Java": 5,
+    "C": 4,
+    "JavaScript": 2
+  },
+  "Saira": {
+    "HTML": 5,
+    "Python": 3,
+    "Java": 2,
+    "C": 3,
+    "JavaScript": 2
+  },
+  "Bilawal": {
+    "HTML": 5,
+    "Python": 2,
+    "Java": 5,
+    "C": 1,
+    "JavaScript": 3
+  },
+  "Mehran": {
+    "HTML": 4,
+    "Python": 1,
+    "Java": 3,
+    "C": 2,
+    "JavaScript": 3
+  },
+  "Kinza": {
+    "HTML": 5,
+    "Python": 4,
+    "Java": 5,
+    "C": 3,
+    "JavaScript": 3
+  },
+  "Kanza": {
+    "HTML": 2,
+    "Python": 3,
+    "Java": 4,
+    "C": 1,
+    "JavaScript": 3
+  },
+  "Taimoor": {
+    "HTML": 5,
+    "Python": 5,
+    "Java": 3,
+    "C": 5,
+    "JavaScript": 3
+  },
+  "Parveen": {
+    "HTML": 5,
+    "Python": 3,
+    "Java": 1,
+    "C": 3,
+    "JavaScript": 5
+  },
+  "Tehreem": {
+    "HTML": 2,
+    "Python": 2,
+    "Java": 5,
+    "C": 5,
+    "JavaScript": 1
+  },
+  "Tayyaba": {
+    "HTML": 1,
+    "Python": 1,
+    "Java": 4,
+    "C": 5,
+    "JavaScript": 2
+  },
+  "Danish Rehman": {
+    "HTML": 1,
+    "Python": 1,
+    "Java": 5,
+    "C": 4,
+    "JavaScript": 5
+  },
+  "Hareem": {
+    "HTML": 4,
+    "Python": 3,
+    "Java": 2,
+    "C": 5,
+    "JavaScript": 2
+  },
+  "Muzammil": {
+    "HTML": 2,
+    "Python": 1,
+    "Java": 3,
+    "C": 5,
+    "JavaScript": 1
+  },
+  "Khadija": {
+    "HTML": 4,
+    "Python": 2,
+    "Java": 4,
+    "C": 5,
+    "JavaScript": 1
+  },
+  "Hamid": {
+    "HTML": 4,
+    "Python": 2,
+    "Java": 1,
+    "C": 4,
+    "JavaScript": 3
+  },
+  "Aiman": {
+    "HTML": 5,
+    "Python": 2,
+    "Java": 1,
+    "C": 5,
+    "JavaScript": 5
+  },
+  "Alia": {
+    "HTML": 1,
+    "Python": 3,
+    "Java": 5,
+    "C": 5,
+    "JavaScript": 5
+  },
+  "Liba": {
+    "HTML": 5,
+    "Python": 5,
+    "Java": 4,
+    "C": 3,
+    "JavaScript": 2
+  },
+  "Tuba": {
+    "HTML": 5,
+    "Python": 2,
+    "Java": 1,
+    "C": 2,
+    "JavaScript": 4
+  },
+  "Rabi": {
+    "HTML": 5,
+    "Python": 1,
+    "Java": 2,
+    "C": 1,
+    "JavaScript": 1
+  },
+  "Maliha": {
+    "HTML": 2,
+    "Python": 2,
+    "Java": 1,
+    "C": 2,
+    "JavaScript": 2
+  },
+  "Asad": {
+    "HTML": 3,
+    "Python": 1,
+    "Java": 4,
+    "C": 5,
+    "JavaScript": 2
+  },
+  "Burhan": {
+    "HTML": 4,
+    "Python": 3,
+    "Java": 4,
+    "C": 4,
+    "JavaScript": 1
+  },
+  "Komal": {
+    "HTML": 1,
+    "Python": 4,
+    "Java": 3,
+    "C": 2,
+    "JavaScript": 5
+  },
+  "Aimen": {
+    "HTML": 4,
+    "Python": 4,
+    "Java": 1,
+    "C": 2,
+    "JavaScript": 1
+  },
+  "Khurram": {
+    "HTML": 4,
+    "Python": 2,
+    "Java": 5,
+    "C": 2,
+    "JavaScript": 1
+  },
+  "Naila": {
+    "HTML": 5,
+    "Python": 4,
+    "Java": 2,
+    "C": 5,
+    "JavaScript": 2
+  },
+  "Yusra": {
+    "HTML": 2,
+    "Python": 1,
+    "Java": 2,
+    "C": 3,
+    "JavaScript": 1
+  },
+  "Aamna": {
+    "HTML": 2,
+    "Python": 1,
+    "Java": 5,
+    "C": 3,
+    "JavaScript": 1
+  },
+  "Shahbaz": {
+    "HTML": 5,
+    "Python": 3,
+    "Java": 3,
+    "C": 4,
+    "JavaScript": 3
+  },
+  "Madiha": {
+    "HTML": 5,
+    "Python": 1,
+    "Java": 1,
+    "C": 3,
+    "JavaScript": 1
+  },
+  "Zeeshan": {
+    "HTML": 2,
+    "Python": 3,
+    "Java": 3,
+    "C": 4,
+    "JavaScript": 3
+  },
+  "Wajeeha": {
+    "HTML": 1,
+    "Python": 2,
+    "Java": 1,
+    "C": 3,
+    "JavaScript": 4
+  },
+  "Fiza": {
+    "HTML": 1,
+    "Python": 1,
+    "Java": 2,
+    "C": 4,
+    "JavaScript": 4
+  },
+  "Khizar": {
+    "HTML": 4,
+    "Python": 2,
+    "Java": 5,
+    "C": 1,
+    "JavaScript": 3
+  },
+  "Luqman": {
+    "HTML": 1,
+    "Python": 5,
+    "Java": 3,
+    "C": 1,
+    "JavaScript": 2
+  },
+  "Amina": {
+    "HTML": 5,
+    "Python": 3,
+    "Java": 1,
+    "C": 4,
+    "JavaScript": 4
+  },
+  "Danish": {
+    "HTML": 2,
+    "Python": 4,
+    "Java": 3,
+    "C": 3,
+    "JavaScript": 1
+  },
+  "Aqeel": {
+    "HTML": 1,
+    "Python": 5,
+    "Java": 1,
+    "C": 3,
+    "JavaScript": 4
+  },
+  "Basit": {
+    "HTML": 5,
+    "Python": 3,
+    "Java": 1,
+    "C": 3,
+    "JavaScript": 1
+  },
+  "Laiba Khan": {
+    "HTML": 3,
+    "Python": 1,
+    "Java": 1,
+    "C": 3,
+    "JavaScript": 3
+  },
+  "Fareeha": {
+    "HTML": 2,
+    "Python": 1,
+    "Java": 5,
+    "C": 3,
+    "JavaScript": 5
+  }
+}
